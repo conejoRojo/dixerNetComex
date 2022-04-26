@@ -1,0 +1,20 @@
+Te dejo enviado el primer paso del desarrollo, que es programar 2 formularios de contacto en las "Landing Pages" que estarán online mientras realizamos el desarrollo. Esto es programar esos 2 forms para que envíen por email, no involucra DDBB el landing.
+
+Versión español:
+https://www.dixer.net/landing_comex/es/
+El mensaje del form debe llegar a inversionycomex@mp.gba.gov.ar
+Debe agregarse la validación con Google Captcha.
+Esto se va a publicar en https://inversiones.gba.gob.ar/ (de hecho hay subida una versión sin programar)
+
+
+Versión inglés:
+https://www.dixer.net/landing_comex/es/
+El mensaje del form debe llegar a inversionycomex@mp.gba.gov.ar
+Debe agregarse la validación con Google Captcha.
+Esto se va a publicar en https://invest.gba.gob.ar/ (no hay nada ahora)
+consulta desde landing page invest.gba.gob.ar"
+
+luego de presionar send o enviar mostrar DIV de GRACIAS (Tiene display: none)
+
+ACCESO FTP:
+dixer / XY5FMlAZWZH2
